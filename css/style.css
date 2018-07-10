@@ -1,0 +1,66 @@
+
+@font-face {
+    font-family: 'GoogleSans';
+    src: url('fonts/GoogleSans-Bold.ttf');
+    src: url('fonts/GoogleSans-Regular.ttf');
+}
+
+* {
+   font-family: GoogleSans;
+    font-size: 20px;
+}
+       
+ a{
+    font-family: GoogleSans;
+    color: #1f1c1c;
+    text-decoration: none;  
+    margin-bottom: 5px;
+    text-align: justify;
+     font-size: 15px;
+    
+}
+
+.bodyarea a ion-icon{
+    margin-right: 1%;
+    
+}
+.bodyarea {
+    margin-top: 20px;
+    height: 80vh;
+    text-align: left;
+    display: inline-block;
+    
+}
+
+footer{
+  margin-top: 80px;
+    text-align: center;
+    font-size: 15px;
+}
+
+h6{
+    margin-top: 15px;
+}
+
+header{
+    background-color: #05323c;
+    height: 20%;
+    
+}
+h1{
+    font-family: GoogleSans;
+    font-size: bold;
+    margin-top: 12px;
+    float: right;
+    color: white;
+}
+
+ul{
+    list-style: square;
+}
+
+.box{
+    padding-left: 0;
+}
+
+
